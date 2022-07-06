@@ -148,3 +148,7 @@ h6 {
     background-color: rgb(143, 189, 173);
     margin-left: 90px;
 }
+
+footer p {
+    text-align: center;
+}
