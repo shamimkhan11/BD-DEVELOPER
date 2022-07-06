@@ -1,0 +1,150 @@
+h1 {
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.section {
+    background-image: url(./donate-today-main/images/donation9.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg {
+    color: white;
+    font-weight: bold;
+}
+
+.happy {
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.btn {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+
+}
+
+.mt {
+    padding-top: 28px;
+}
+
+.tk {
+    display: flex;
+    justify-content: center;
+}
+
+.tk p {
+    padding-left: 20px;
+
+    font-weight: bolder;
+
+}
+
+#ora {
+    color: orangered;
+
+
+}
+
+.border {
+    border: 1px solid red;
+    padding-right: 17px;
+    background-color: rgba(207, 193, 188, 0.795);
+
+}
+
+.tow {
+    padding-right: 5px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.bolod {
+    font-weight: bolder;
+}
+
+.left {
+    margin-left: 93px;
+    margin-top: 5px;
+}
+
+.text {
+    text-align: center;
+    color: rgb(160, 167, 173);
+    margin-bottom: 10px;
+}
+
+.one {
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.tuo {
+
+    width: 40%;
+    border: 1px solid rgb(160, 167, 173);
+}
+
+.ide {
+    text-align: center;
+}
+
+.what {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.width1 {
+    width: 33.33%;
+}
+
+#hi {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.tree {
+    background-image: url(./donate-today-main/icons/food.png);
+    background-repeat: no-repeat;
+    background-color: rgb(168, 171, 173);
+    margin-left: 90px;
+}
+
+.for {
+    background-image: url(./donate-today-main/icons/shelter.png);
+    background-repeat: no-repeat;
+    background-color: rgb(221, 198, 167);
+    margin-left: 90px;
+}
+
+.hack {
+    background-image: url(./donate-today-main/icons/Frame-1.png);
+    background-repeat: no-repeat;
+    background-color: rgb(143, 189, 173);
+    margin-left: 90px;
+}
